@@ -1,0 +1,22 @@
+{
+  "name": "csv-generator",
+  "version": "1.0.0",
+  "description": "CSV generator CLI",
+  "main": "index.js",
+  "scripts": {
+    "generate": "node index.js",
+    "test": "jest"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jest": "27.0.2",
+    "@types/node": "16.10.1",
+    "jest": "27.2.2",
+    "prettier": "^2.4.1"
+  },
+  "prettier": {
+    "singleQuote": true
+  },
+  "dependencies": {}
+}
