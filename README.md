@@ -6,7 +6,7 @@ _Steps to setup the project_
 
 **Step 1:** Clone this repository.
 
-**Step 2:** Go to the cloned repo and open in in termianl.
+**Step 2:** Go to the cloned repo and open it in termianl.
 
 **Step 3:** Install the Application with `yarn install`
 
